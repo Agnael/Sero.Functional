@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageLicenseExpression> Apache-2.0</PackageLicenseExpression>
+    <Title>Sero.Functional</Title>
+    <Version>1.0.0</Version>
+    <PackageProjectUrl>https://github.com/Agnael/Sero.Functional</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Agnael/Sero.Functional</RepositoryUrl>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
