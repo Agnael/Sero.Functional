@@ -3,7 +3,7 @@ using System.Collections.Concurrent;
 
 namespace Sero.Functional;
 
-internal class MaybeNewtonsoftJsonConverter : JsonConverter
+public class MaybeNewtonsoftJsonConverter : JsonConverter
 {
 	public MaybeNewtonsoftJsonConverter()
 	{
